@@ -16,8 +16,8 @@ J’aime créer des systèmes qui durent : des backends clairs, des pipelines fi
 
 ### Documents
 
-- **[Télécharger mon CV (PDF)](https://github.com/ThibaudPlanqueel/ThibaudPlanqueel/raw/main/CV_Thibaud_Planqueel.pdf)**
-- **[Lettre de recommandation – Djamchid Dalili (DiamPark)](https://github.com/ThibaudPlanqueel/ThibaudPlanqueel/raw/main/Recommandation_Thibaud_Planqueel.pdf)**
+- **[Télécharger mon CV (PDF)](https://github.com/ThibaudPlanqueel/ThibaudPlanqueel/raw/main/docs/CV_Thibaud_Planqueel.pdf)**
+- **[Lettre de recommandation – Djamchid Dalili (DiamPark)](https://github.com/ThibaudPlanqueel/ThibaudPlanqueel/raw/main/docs/Recommandation_Thibaud_Planqueel.pdf)**
 
 📍 Agde, France  
 📫 [planqueelthibaud@hotmail.fr](mailto:planqueelthibaud@hotmail.fr)
