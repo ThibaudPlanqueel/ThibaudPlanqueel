@@ -4,7 +4,7 @@
 
 J’aime créer des systèmes qui durent : des backends clairs, des pipelines fiables et des interfaces qui rendent les calculs complexes accessibles.
 
-**Ce qui me motive vraiment aujourd’hui, c’est de construire des solutions complètes — du pipeline de données jusqu’à l’interface utilisateur — qui soient à la fois robustes, maintenables et réellement utiles dans des contextes concrets comme la santé.**
+**Ce qui me motive vraiment aujourd’hui, c’est de construire des solutions complètes — du pipeline de données jusqu’à l’interface utilisateur — qui soient à la fois robustes, maintenables et réellement utiles dans des contextes concrets à fort enjeu métier.**
 
 → **[Lorenz Lab](https://github.com/ThibaudPlanqueel/lorenz-lab)** — une démo live qui explore trois attracteurs chaotiques avec une architecture full-stack propre et symétrique.
 
